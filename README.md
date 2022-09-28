@@ -1,11 +1,9 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📦 Streamlit Dashboard on Airbnbs in Berlin
 
-Description of the app ...
 
-## Demo App
+This streamlit app aims to analyze the airbnb situation in Berlin in july 2021.
+
+## Dashboard 
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
 
